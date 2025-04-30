@@ -13,6 +13,19 @@
 **Backend:** Node.js, REST APIs, Firebase, MongoDB  
 **Performance:** Lazy Loading, Virtual Scrolling  
 
+## 🤖 AI Development Tools I Use Daily
+
+| Tool | Usage | Badge |
+|------|-------|-------|
+| GitHub Copilot | Code completion, Documentation generation | ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Used_100%25-blue?logo=github) |
+| Codium | Code completion, Test generation, Code explanations | ![Codium](https://img.shields.io/badge/Codium-Active_User-green?logo=codium) |
+| ChatGPT | Architecture design, Debugging help | ![ChatGPT](https://img.shields.io/badge/ChatGPT-Research_Assistant-purple?logo=openai) |
+
+**How I leverage these tools:**
+- 🚀 **Copilot**: Accelerating development with intelligent code suggestions
+- 🧪 **Codium**: Generating comprehensive test suites automatically
+- 🤔 **ChatGPT**: Exploring alternative solutions to complex problems
+
 ## 🔥 Featured Projects
 
 [![Photofolio](https://github-readme-stats.vercel.app/api/pin/?username=sanchit903&repo=photofolio&theme=dark)](https://github.com/sanchit903/photofolio)
@@ -21,6 +34,9 @@
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchit903&show_icons=true&theme=dark)
+
+## 📊 GitHub Activity Graph
+[![Sanchit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanchit903&theme=github-compact)](https://github.com/sanchit903)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-sinha-522448217/)
