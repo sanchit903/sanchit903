@@ -28,7 +28,7 @@
 
 ## 🔥 Featured Projects
 
-[![Photofolio](https://github-readme-stats.vercel.app/api/pin/?username=sanchit903&repo=photofolio&theme=dark)](https://github.com/sanchit903/photofolio)
+[![Photofolio](https://github-readme-stats.vercel.app/api/pin/?username=sanchit903&repo=photofolio&theme=dark&show_description=true)](https://github.com/sanchit903/photofolio)
 <!-- [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=sanchit903&repo=project2&theme=dark)](https://github.com/sanchit903/project2) -->
 
 ## 📈 GitHub Stats
